@@ -1,2 +1,7 @@
 Ola arquivo de revisao!
 Estamos aqui para fazermos a revisao da aula de ontem
+Ontem aprendemos um pouco sobre git e github, este e apenas um arquivo de revisao
+Ainda estamos aprendendo a usar o git e o github,
+ontem aprendemos a inicializar um repositorio git local,
+a adicionar um arquivo na area stage do do repositorio .git para o rastreio do arquivo e aprendemos
+a fazer um commit
